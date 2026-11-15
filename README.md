@@ -35,6 +35,7 @@
 
 #### 📂 Featured Projects
 - **[seq-qc-parser](https://github.com/TU_USUARIO/seq-qc-parser):** Command-line tool for parsing and validating FASTA sequence files, handling ambiguous nucleotide bases, and performing basic sequence quality control.
+- **[variant-impact-analyzer](https://github.com/slitteri-oss/variant-impact-analyzer):** Python CLI tool that translates coding DNA sequences (CDS) and classifies point mutations (synonymous, missense, and nonsense) along with side-chain chemical impact.
 
 ---
 
